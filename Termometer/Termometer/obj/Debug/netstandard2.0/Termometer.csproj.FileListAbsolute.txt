@@ -1,0 +1,15 @@
+D:\PROJELER\Termometer\Termometer\bin\Debug\netstandard2.0\Termometer.deps.json
+D:\PROJELER\Termometer\Termometer\bin\Debug\netstandard2.0\Termometer.dll
+D:\PROJELER\Termometer\Termometer\bin\Debug\netstandard2.0\Termometer.pdb
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\Termometer.csproj.AssemblyReference.cache
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\Termometer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\Termometer.AssemblyInfoInputs.cache
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\Termometer.AssemblyInfo.cs
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\Termometer.csproj.CoreCompileInputs.cache
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\Termometer.dll
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\refint\Termometer.dll
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\Termometer.pdb
+D:\PROJELER\Termometer\Termometer\obj\Debug\netstandard2.0\ref\Termometer.dll

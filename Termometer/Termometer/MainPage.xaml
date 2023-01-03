@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Termometer.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Home Termometer" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Frame BackgroundColor="#2196F3" Padding="15" CornerRadius="0">
+            <Label Text="Temperature Information" FontSize="18" Padding="3,3,3,3" FontAttributes="Bold" TextColor="White"/>
+        </Frame>
+        <Label x:Name="lblTemp" FontSize="13" FontAttributes="Italic" Padding="3,3,3,3"/>
+        <Label x:Name="lblHum" FontSize="13" FontAttributes="Italic" Padding="3,3,3,3"/>
+        <Label x:Name="lblBat" FontSize="13" FontAttributes="Italic" Padding="3,3,3,3"/>
+        <Frame BackgroundColor="#2196F3" Padding="15" CornerRadius="0">
+            <Label Text="Controls" FontSize="18" Padding="3,3,3,3" FontAttributes="Bold" TextColor="White"/>
+        </Frame>
+        <Label Text="Off / On" FontSize="13" Padding="3" HorizontalOptions="EndAndExpand" FontAttributes="Italic"/>
+        <Switch x:Name="switchStatus" Toggled="switchStatusOnToggled" OnColor="#2196f3" ThumbColor="White"/>
+        <Label Text="Desired Temperature C:" FontSize="13" Padding="3,3,3,3" FontAttributes="Italic"/>
+        <Entry x:Name="txtTemp" FontSize="13" Keyboard="Numeric" HorizontalTextAlignment="Center" MaxLength="5"/>
+        <Label Text="Desired Sensitivity C:" FontSize="13" Padding="3,3,3,3" FontAttributes="Italic"/>
+        <Entry x:Name="txtHum" FontSize="13" Keyboard="Numeric" HorizontalTextAlignment="Center" MaxLength="4"/>
+        <Button x:Name="btnSave" Text="Save" VerticalOptions="CenterAndExpand" Clicked="btnSaveOnClicked" BackgroundColor="#2196F3"/>
+    </StackLayout>
+
+</ContentPage>
